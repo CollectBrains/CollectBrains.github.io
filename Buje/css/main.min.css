@@ -4416,6 +4416,9 @@ body {
     font-size: 14px;
     color: #99a0a8; }
 
+.blog__link:hover, .blog__link:active {
+  text-decoration: none; }
+
 .btn__wrap {
   text-align: center;
   margin-top: 65px; }
@@ -4560,7 +4563,8 @@ body {
     font-family: 'Gentium Book Basic', serif;
     text-decoration: none; }
     .quot__link:hover, .quot__link:focus {
-      text-decoration: none; }
+      text-decoration: none;
+      color: #ff6868; }
   .quot__tweet {
     color: #99a0a8; }
   .quot .soc-line {
