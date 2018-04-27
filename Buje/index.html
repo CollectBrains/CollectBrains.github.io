@@ -7,12 +7,9 @@
 
 	<title>Title</title>
 	<meta name="description" content="">
-	<meta name="robots" content="all">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta name="google-site-verification" content="YeB2wOwKIMMQQ05cvzOCz_EIMcOk8DP0Yv7M3MqMQxA" />
-	<meta name="yandex-verification" content="6a14a189d84ccad8" />
 
 	<meta property="og:image" content="path/to/image.jpg">
 	<link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
@@ -29,35 +26,6 @@
 	<meta name="apple-mobile-web-app-status-bar-style" content="#000">
 
 	<style>body { opacity: 0; overflow-x: hidden; } html { background-color: #fff; }</style>
-	<!-- Yandex.Metrika counter -->
-	<script type="text/javascript" >
-	    (function (d, w, c) {
-	        (w[c] = w[c] || []).push(function() {
-	            try {
-	                w.yaCounter48433076 = new Ya.Metrika({
-	                    id:48433076,
-	                    clickmap:true,
-	                    trackLinks:true,
-	                    accurateTrackBounce:true,
-	                    webvisor:true
-	                });
-	            } catch(e) { }
-	        });
-
-	        var n = d.getElementsByTagName("script")[0],
-	            s = d.createElement("script"),
-	            f = function () { n.parentNode.insertBefore(s, n); };
-	        s.type = "text/javascript";
-	        s.async = true;
-	        s.src = "https://mc.yandex.ru/metrika/watch.js";
-
-	        if (w.opera == "[object Opera]") {
-	            d.addEventListener("DOMContentLoaded", f, false);
-	        } else { f(); }
-	    })(document, window, "yandex_metrika_callbacks");
-	</script>
-	<noscript><div><img src="https://mc.yandex.ru/watch/48433076" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-	<!-- /Yandex.Metrika counter -->
 
 </head>
 
@@ -221,9 +189,10 @@
 	<section class="s-team s-dark" id="About">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-10 col-md-offset-1">
-					<div class="slider js-hero">
-						<div class="slider__slides slide">
+				<div class="col-md-12">
+					<div class="swiper-container js-hero">
+						<div class="swiper-wrapper">
+						<div class="swiper-slide slide">
 							<div class="slide__img-wrap">
 								<img src="img/member.jpg" alt="" class="slide__img">
 							</div>
@@ -251,7 +220,7 @@
 							</div>
 						</div>
 
-						<div class="slider__slides slide">
+						<div class="swiper-slide slide">
 							<div class="slide__img-wrap">
 								<img src="img/member.jpg" alt="" class="slide__img">
 							</div>
@@ -279,7 +248,7 @@
 							</div>
 						</div>
 
-						<div class="slider__slides slide">
+						<div class="swiper-slide slide">
 							<div class="slide__img-wrap">
 								<img src="img/member.jpg" alt="" class="slide__img">
 							</div>
@@ -308,7 +277,8 @@
 						</div>
 
 					</div>
-
+						<div class="swiper-pagination"></div>
+					</div>
 				</div>
 			</div>
 		</div>
