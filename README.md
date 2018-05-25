@@ -1,5 +1,4 @@
 # CollectBrains.github.io
-# CollectBrains.github.io
 <h2>My public sites</h2>
 <ul>
 	<li>
