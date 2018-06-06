@@ -22,4 +22,10 @@
 		<li>
 		<a href="https://collectbrains.github.io/Frito/" target="_blank">Digital Agency "Frito"</a>
 	</li>
+	<li>
+		<a href="https://collectbrains.github.io/Arrow/" target="_blank">Arrow</a>
+	</li>
+	<li>
+		<a href="https://collectbrains.github.io/Puppes/" target="_blank">Puppes</a>
+	</li>
 </ul>
