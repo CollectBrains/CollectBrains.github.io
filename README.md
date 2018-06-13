@@ -1,4 +1,6 @@
 # CollectBrains.github.io
+<h2>My Portfolio</h2>
+<img src="img/index.html.png" alt="Portfolio" width="100%" height="100%">
 <h2>My public sites</h2>
 <ul>
 	<li>
