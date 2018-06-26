@@ -1,7 +1,5 @@
-# CollectBrains.github.io
-<h2>My Portfolio</h2>
+<h2><a href="https://collectbrains.github.io/">My Portfolio:</a></h2>
 <img src="img/index.html.png" alt="Portfolio" width="100%" height="100%">
-<h2>My public sites</h2>
 <ul>
 	<li>
 		<a href="https://collectbrains.github.io/Kamaz/" target="_blank">Kamaz-Master</a>
@@ -29,5 +27,8 @@
 	</li>
 	<li>
 		<a href="https://collectbrains.github.io/Puppes/" target="_blank">Puppes</a>
+	</li>
+	<li>
+		<a href="https://collectbrains.github.io/Yes/" target="_blank">Yes</a>
 	</li>
 </ul>
